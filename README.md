@@ -2,25 +2,28 @@
   <img src="https://raw.githubusercontent.com/Sidtripathi07/Sidtripathi07/main/GithubBanner.png" />
 </p>
 
-<h1 align="center">Hey 👋 I'm Siddharth Tripathi</h1>
-<h3 align="center">⚡ Building AI Systems that actually work in the real world</h3>
+<h1 align="center">Hey 👋, I'm Siddharth Tripathi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;LLM+Builder;Full+Stack+Developer;Hackathon+Finalist;Problem+Solver&center=true&width=600&height=45&color=00F7FF">
+  <b>AI Engineer • LLM Builder • Full-Stack Developer</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+real-world+AI+systems;LLM+%7C+NLP+%7C+Full-Stack;Hackathon+Finalist;Always+learning+%F0%9F%94%A5&center=true&width=500&height=40&color=00F7FF">
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🚀 I build real AI systems, not just notebooks  
-- 🧠 Focused on LLMs, Agentic AI, and scalable ML pipelines  
+- 🚀 I build **real-world AI systems**, not just notebooks  
+- 🧠 Focused on **LLMs, Agentic AI, NLP, scalable ML pipelines**  
 - 🏆 Hackathon Finalist (TechHorizon + SIH)  
-- 🎬 Blending tech with storytelling  
+- 🎬 Into **filmmaking + storytelling + tech content**
 
 ---
 
-## ⚒️ Tech Arsenal
+## ⚒️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,flask,tensorflow,mongodb,postgresql,mysql,git,figma" />
@@ -28,44 +31,31 @@
 
 ---
 
-## 🚀 Featured Builds
+## 🚀 Featured Projects
 
-### 🧠 Multi-Agent Text-to-SQL
-- Accuracy: **94%**
-- Tech: LangGraph + LLMs  
-- Highlight: Self-correcting multi-agent pipeline  
+<div align="center">
 
----
+| Project | Description |
+|--------|------------|
+| 🧠 **Text-to-SQL System** | Multi-agent LLM pipeline • 94% accuracy |
+| 🤝 **AidConnect** | AI-powered NGO logistics • Hackathon Finalist |
+| 📄 **Resume AI** | NLP-based job recommendation system |
+| 🚑 **Emergency Alert** | Real-time detection using Groq + V2X |
 
-### 🤝 AidConnect
-- Type: Hackathon Finalist Project  
-- AI: Llama 3.2  
-- Core: Smart vendor matching engine  
-
----
-
-### 📄 Resume AI System
-- Method: TF-IDF + Cosine Similarity  
-- Goal: Smart job recommendation  
+</div>
 
 ---
 
-### 🚑 Emergency Alert System
-- Tech: Groq + Transformers  
-- Feature: Real-time emergency detection  
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidtripathi07&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidtripathi07&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sidtripathi07&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sidtripathi07&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🧬 Contribution Graph
+## 🧬 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidtripathi07&theme=tokyo-night&hide_border=true"/>
@@ -76,7 +66,7 @@
 ## 🏆 Achievements
 
 - 🥇 TechHorizon Hackathon Finalist  
-- 🇮🇳 Smart India Hackathon  
+- 🇮🇳 Smart India Hackathon Participant  
 - 🏆 PBL Competition Winner  
 
 ---
@@ -97,18 +87,10 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## ⚡ Final Thought
+## ⚡ Code Mindset
 
 ```javascript
-while(alive){
+while (true) {
   build();
   learn();
   improve();
