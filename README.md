@@ -61,37 +61,34 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚧 Currently Building
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sidtripathi07&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sidtripathi07&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sidtripathi07&theme=tokyo-night&hide_border=true" />
-</p>
+- Improving Text-to-SQL system (multi-agent reasoning)
+- Exploring Agentic AI workflows
+- Building real-world AI applications
 
 ---
 
-## 🏆 Achievements
+## 🎯 What Sets Me Apart
 
-- 🥇 TechHorizon Hackathon Finalist  
-- 🇮🇳 Smart India Hackathon Participant  
-- 🏆 PBL Competition Winner  
+- ⚡ I focus on **building systems**, not just models  
+- 🧠 Strong understanding of **end-to-end AI pipelines**  
+- 🎬 Blend of **tech + storytelling + product thinking**  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:siddharthtripathi0704@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://linkedin.com/in/siddharth-tripathi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/Sidtripathi07"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/></a>
+  <a href="mailto:siddharthtripathi0704@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/siddharth-tripathi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/Sidtripathi07">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
